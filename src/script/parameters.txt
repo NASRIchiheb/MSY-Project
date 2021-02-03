@@ -1,0 +1,16 @@
+Linux / macOS
+
+I_../input/configuration1.txt
+I_../input/configuration2.txt
+
+D_../input/requests-tipper.txt
+D_../input/requests-quality.txt
+---
+
+Windows
+
+I_..\input\configuration1.txt
+I_..\input\configuration2.txt
+
+D_..\input\requests-tipper.txt
+D_..\input\requests-quality.txt

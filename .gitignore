@@ -1,0 +1,11 @@
+# ignore mac filesystem file
+.DS_Store
+/.metadata/
+UserAgent/bin/*.class
+src/script/APDescription.txt
+src/bin/APDescription.txt
+src/bin/MTPs-Main-Container.txt
+src/MTPs-Main-Container.txt
+src/script/MTPs-Main-Container.txt
+src/APDescription.txt
+src/.idea/
